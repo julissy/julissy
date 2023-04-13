@@ -13,6 +13,9 @@ Qualidade é uma cultura é nós só confiamos naquilo que acreditamos e eu acre
 Vou deixar aqui os links para facilitar seu acesso aos meus repositórios
 
 
+[Projeto GuruBank99 - Criação de casos de teste, execução e report de bugs](https://github.com/julissy/Testes_GuruBank99)
+
+
 [Elaboração de casos de teste](https://github.com/julissy/TesteTecnico_CriacaoCasodeTeste)
 
 

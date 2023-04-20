@@ -1,8 +1,8 @@
 ## Olá, espero que esteja bem! Me chamo Julissy, mas pode chamar de Ju! 
 ## Seja bem vindo! Aqui tem muito projeto bacana para ser visto!
 
-Atualmente estou com a carreira em desenvolvimento na área de tecnologia como Analista de
-Testes/QA. 
+Olá, meu nome é Julissy e sou uma profissional com 9 anos de experiência na área administrativa. Até recentemente, minha carreira se desenvolveu na gestão de processos e procedimentos, garantindo que as atividades fossem executadas de acordo com os padrões estabelecidos pela empresa. Atualmente estou com a carreira em desenvolvimento na área de tecnologia como Analista de Testes/QA. 
+
 Sou apaixonada pela área de Qualidade e Testes com a visão de disseminar a cultura da 
 qualidade no time que atuo.
 

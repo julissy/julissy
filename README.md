@@ -6,7 +6,7 @@ Olá, meu nome é Julissy e sou uma profissional com 9 anos de experiência na �
 Sou apaixonada pela área de Qualidade e Testes com a visão de disseminar a cultura da 
 qualidade no time que atuo.
 
-Qualidade é uma cultura é nós só confiamos naquilo que acreditamos e eu acredito na cultura da qualidade para o desenvolvimentos de softwares estáveis que seguem os padrões de excelência exigidos pelo mercado.
+Qualidade é uma cultura é nós só confiamos naquilo que acreditamos e eu acredito na cultura da qualidade para o desenvolvimento de softwares estáveis que seguem os padrões de excelência exigidos pelo mercado.
 
 ### Projetos Pessoais
 

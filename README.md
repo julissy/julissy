@@ -17,7 +17,7 @@ Abaixo de cada projeto estão as ferramentas que utilizei.
 
 [Projeto GuruBank99 - Criação de casos de teste, execução e report de bugs em um sistema bancário](https://github.com/julissy/Testes_GuruBank99)
 
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> <img src="https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036" />
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> <img src="https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
 
 
 [Projeto de elaboração de plano de teste e casos de teste](https://github.com/julissy/TesteTecnico_CriacaoCasodeTeste)

@@ -1,7 +1,11 @@
 ## Olá, espero que esteja bem! Me chamo Julissy, mas pode chamar de Ju! 
 ## Seja bem vindo! Aqui tem muito projeto bacana para ser visto!
 
-Olá, meu nome é Julissy e sou uma profissional com 9 anos de experiência na área administrativa. Até recentemente, minha carreira se desenvolveu na gestão de processos e procedimentos, garantindo que as atividades fossem executadas de acordo com os padrões estabelecidos pela empresa. Atualmente estou com a carreira em desenvolvimento na área de tecnologia como Analista de Testes/QA. 
+Atuo como Analista de QA desde Dezembro de 2022, onde desenvolvi a habilidade de pensar como uma líder, sempre buscando soluções práticas para aprimorar continuamente os processos, com foco na qualidade desde o início até o fim da entrega (shift-left testing).
+
+Uma das conquistas mais notáveis em minha carreira foi auxiliar na implementação da área de qualidade na Empresa TheMembers, um processo concluído em apenas 3 meses. Isso envolveu a análise de processos de desenvolvimento, elaboração de documentação baseada no fluxo de execução, planos de teste e casos de testes direcionados para os critérios de aceitação das features.
+
+Em minha posição atual, tenho a oportunidade de contribuir para a diminuição considerável na fila de suporte, garantir a entrega consistente de features dentro do prazo e alcançar uma redução significativa nos defeitos durante o desenvolvimento(devido o shift-left testing).
 
 Sou apaixonada pela área de Qualidade e Testes com a visão de disseminar a cultura da 
 qualidade no time que atuo.
@@ -12,7 +16,10 @@ Qualidade é uma cultura é nós só confiamos naquilo que acreditamos e eu acre
 
 Vou deixar aqui os links para facilitar seu acesso aos meus repositórios.
 
-Abaixo de cada projeto estão as ferramentas que utilizei.
+
+[ **Em desenvolvimento** --- Projeto BugBank - Criação de testes automatizados utilizando Robot Framework](https://github.com/julissy/bug_bank_tests)
+
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white" />
 
 
 [Projeto GuruBank99 - Criação de casos de teste, execução e report de bugs em um sistema bancário](https://github.com/julissy/Testes_GuruBank99)
@@ -39,8 +46,11 @@ Abaixo de cada projeto estão as ferramentas que utilizei.
 
 ### Estudos
 
-Tenho me dedicado ao Curso de Formação Quality Assurance pela [Qa.Coders](https://www.linkedin.com/company/qa-coders/),
-a Pós-Graduação em Engenharia de Software com Ênfase em Qualidade e Testes pela [Faculdade VINCIT](https://www.faculdadevincit.edu.br/cursos/engenharia-de-software-e-teste)( deixo a [ementa](https://dd0c6bc7-a7f9-4995-994e-a65ec4dc6bb8.usrfiles.com/ugd/dd0c6b_41186c3c15c746dbb61ccc93577564c5.pdf) disponível caso queria ver os contéudos ) e utilizado a plataforma [Qualiters Club](https://app.qualitersclub.com/login) para desenvolver minhas habilidades e conhecimentos.
+Atualmente focada em aprender Robot Framework, Git Actions e Docker.
+
+### Comunidades
+Sou voluntária da comunidade Pyladies de Fortaleza participando da organização de eventos e divulgação da comunidade com o intuito de sermos um local seguro para 
+que mais mulheres possam ter acesso a área de tecnologia.
 
 Sou membro da comunidade "Cantinho das mulheres Q.As 🐞 ", ambiente onde são feitas trocas de informações, muitas dicas sobre a área, apoio de forma geral as participantes.
 

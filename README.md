@@ -1,11 +1,13 @@
 ## Olá, espero que esteja bem! Me chamo Julissy, mas pode chamar de Ju! 
 ## Seja bem vindo! Aqui tem muito projeto bacana para ser visto!
 
-Atuo como Analista de QA desde Dezembro de 2022, onde desenvolvi a habilidade de pensar como uma líder, sempre buscando soluções práticas para aprimorar continuamente os processos, com foco na qualidade desde o início até o fim da entrega (shift-left testing).
+Profissional da área da qualidade de software com 3 anos de experiência e certificada CTFL, desenvolvi a habilidade de pensar como uma líder, sempre buscando soluções práticas para aprimorar continuamente os processos, com foco na qualidade desde o início até o fim da entrega (shift-left testing).
 
 Uma das conquistas mais notáveis em minha carreira foi auxiliar na implementação da área de qualidade na Empresa TheMembers, um processo concluído em apenas 3 meses. Isso envolveu a análise de processos de desenvolvimento, elaboração de documentação baseada no fluxo de execução, planos de teste e casos de testes direcionados para os critérios de aceitação das features.
 
-Em minha posição atual, tenho a oportunidade de contribuir para a diminuição considerável na fila de suporte, garantir a entrega consistente de features dentro do prazo e alcançar uma redução significativa nos defeitos durante o desenvolvimento(devido o shift-left testing).
+Outra conquista notável foi a iniciativa para a implementação da ferramenta de gerenciamento de testes AIOTest na Atlas Technologies, contribuindo para sua adoção e melhoria na gestão e rastreabilidade dos testes
+
+Em minha posição atual, tenho a oportunidade de contribuir para a diminuição considerável de bugs em produção(52% e 30% são alguns dados), garantir a entrega consistente de features dentro do prazo e alcançar uma redução significativa nos defeitos durante o desenvolvimento(devido o shift-left testing e a técnica DevBoxtesting).
 
 Sou apaixonada pela área de Qualidade e Testes com a visão de disseminar a cultura da 
 qualidade no time que atuo.
@@ -46,7 +48,7 @@ Vou deixar aqui os links para facilitar seu acesso aos meus repositórios.
 
 ### Estudos
 
-Atualmente focada em aprender Robot Framework, Git Actions e Docker.
+Atualmente focada em Playwright(E2E), PactumJS(API) e uso de IA de forma estratégica(repositórios em construção)
 
 ### Comunidades
 Sou voluntária da comunidade Pyladies de Fortaleza participando da organização de eventos e divulgação da comunidade com o intuito de sermos um local seguro para 

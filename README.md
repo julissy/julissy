@@ -19,9 +19,12 @@ Qualidade é uma cultura é nós só confiamos naquilo que acreditamos e eu acre
 Vou deixar aqui os links para facilitar seu acesso aos meus repositórios.
 
 
-[ **Em desenvolvimento** --- Projeto BugBank - Criação de testes automatizados utilizando Robot Framework](https://github.com/julissy/bug_bank_tests)
+[ Estudos sobre PactumJS - Criação de testes automatizados utilizando PactumJS ](https://github.com/julissy/qa.automationexercise-api.pactumjs)
 
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white" />
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![PactumJS](https://img.shields.io/badge/pactumjs-%23FFF000.svg?style=for-the-badge&logo=pactumJS&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 
 [Projeto GuruBank99 - Criação de casos de teste, execução e report de bugs em um sistema bancário](https://github.com/julissy/Testes_GuruBank99)
